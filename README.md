@@ -27,5 +27,4 @@ import matplotlib.pyplot as plt
 ```
 
 ## Contributing
-
 If you find any issues with this notebook file, or if you have any suggestions for improvement, please feel free to open an issue or submit a pull request.
