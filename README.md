@@ -2,9 +2,12 @@
 Data analysts and data scientists frequently conduct A/B tests. This project is to analyze the outcomes of an A/B test carried out by an e-commerce site. The objective is to use this notebook to assist the company in determining whether to adopt the new page, retain the old page, or extend the experiment duration to make a decision.
 
 This repository contains a Jupyter Notebook file, which is used to perform data analysis and data visualization. The notebook is designed to work with a specific dataset or problem statement, and can be used to explore and analyze the data in an interactive manner.
+
+## Summary of Findings
+Based on the p-vlaue, we could see there is not statistical signifiance value of the countries, which mean the patient in different countries who get a new page would not change to the conversion rate. Moreover, the p-values that are calculated at Part II and Part III show that we should accept our null hypothesis, which is the new pages and old pages do not have significant differences in this study.
+
 ## Installation
 To use this notebook file, you will need to have Jupyter Notebook installed on your computer. Once you have installed Jupyter Notebook, you can download or clone this repository to your local machine.
-
 
 ## Usage
 
