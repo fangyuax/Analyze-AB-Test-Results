@@ -16,6 +16,13 @@ The notebook file contains cells with Python code, as well as markdown cells wit
 
 This notebook file requires certain Python packages to be installed, such as pandas, numpy, and matplotlib. You can install these packages by running the command pip install <package-name> in your terminal or command prompt.
 
+ ```bash
+import pandas as pd
+import numpy as np
+import random
+import matplotlib.pyplot as plt
+```
+
 ## Contributing
 
 If you find any issues with this notebook file, or if you have any suggestions for improvement, please feel free to open an issue or submit a pull request.
